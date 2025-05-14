@@ -24,7 +24,7 @@
 - Jupyter Notebook | Google Colab
 - Power BI | SQL
 
-## 📊 What I'm working on:
+## 📊 I'm working on:
 - 🤖 Building ML models using real-world datasets
 - 📈 Learning advanced topics like Deep Learning and NLP
 - 📚 Improving knowledge on deployment using Flask & Streamlit
